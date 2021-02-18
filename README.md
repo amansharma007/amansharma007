@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I push things to web.
+
+I am a Frontend dev who loves coffee and gym as much as he loves to breath.
+
+- 🔭 I’m currently working on Vue.js, TailwindCSS.
+- 🌱 I’m currently learning more about JavaScript.
+- 👯 I’m looking to collaborate with startups to build great things.
+- ⚡ Fun fact: Did you know `NaN !== NaN`? Shocking right? I was shocked too.
 
 <!--
 **amansharma007/amansharma007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
