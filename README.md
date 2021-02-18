@@ -3,7 +3,7 @@
 I am a Frontend dev who loves coffee and gym as much as he loves to breath.
 
 - 🔭 I’m currently working on Vue.js, TailwindCSS.
-- 🌱 I’m currently learning more about JavaScript.
+- 🌱 I’m trying to get deeper into JavaScript.
 - 👯 I’m looking to collaborate with startups to build great things.
 - 📫 You can reach me via email on aman8696.56@gmail.com or on twitter [@nerdycap007](https://twitter.com/nerdycap007).
 - ⚡ Fun fact: Did you know `NaN !== NaN`? Shocking, right?
