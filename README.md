@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px" height="30px" style="object-fit: contain !important;">, I push things to web.
+# Hi there <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px" height="30px" style="object-fit: contain !important;">, I push code to web.
 
 I am a Frontend dev who loves coffee and gym as much as he loves to breath.
 
