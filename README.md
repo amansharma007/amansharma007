@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px" height="30px" style="object-fit: contain !important;">, I push code to web.
 
-I am a Frontend dev who loves coffee and gym as much as he loves to breath.
+I am a Frontend dev who loves coffee, code and gym as much as he loves to breath.
 
 - 🔭 I’m currently working on Vue.js, TailwindCSS.
 - 🌱 I’m trying to get deeper into TypeScript and would normally love to have a chat around JavaScript.
